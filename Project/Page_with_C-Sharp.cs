@@ -11,7 +11,7 @@ namespace Project
     {
         public Page_with_C_Sharp()
         {
-            /*Entry Entry1 = new Entry
+            Entry Entry1 = new Entry
             {
                 Placeholder = "Write",
                 TextColor = Color.Brown
@@ -32,7 +32,7 @@ namespace Project
             Content = new StackLayout
             {
                 Children = {Entry1, Button1, Label1}
-            };*/
+            };
         }
     }
 }

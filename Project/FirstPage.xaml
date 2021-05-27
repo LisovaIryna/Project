@@ -4,12 +4,12 @@
              x:Class="Project.FirstPage">
     <ContentPage.Content>
         <StackLayout>
-            <Entry x:Name="Entry1" Placeholder="Write"></Entry>
+            <!--<Entry x:Name="Entry1" Placeholder="Write"></Entry>
             <Button Text="Click" Clicked="Button_Clicked"></Button>
             <Label x:Name="Label1" Text="Hello"></Label>
             <Button x:Name="Play" Text="Play" Clicked="Play_Clicked"></Button>
             <Button x:Name="Settings" Text="Settings" Clicked="Settings_Clicked"></Button>
-            <Button x:Name="Exit" Text="Exit" Clicked="Exit_Clicked"></Button>
+            <Button x:Name="Exit" Text="Exit" Clicked="Exit_Clicked"></Button>-->
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
