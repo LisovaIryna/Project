@@ -17,12 +17,12 @@ namespace Project
             InitializeComponent();
         }
 
-        /*private void Button_Clicked(object sender, EventArgs e)
+        private void Button_Clicked(object sender, EventArgs e)
         {
             Label1.Text = Entry1.Text;
         }
 
-        private async void Settings_Clicked(object sender, EventArgs e)
+        /*private async void Settings_Clicked(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new Setting());
         }

@@ -10,9 +10,9 @@ namespace Project
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
-            //MainPage = new FirstPage();
-            MainPage = new Page_with_C_Sharp();
+            //MainPage = new MainPage();
+            MainPage = new FirstPage();
+            //MainPage = new Page_with_C_Sharp();
             //MainPage = new NavigationPage(new FirstPage());
         }
 
